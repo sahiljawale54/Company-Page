@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Company-Page/static/css/main.f4f25465.css",
+    "main.js": "/Company-Page/static/js/main.2045b9b9.js",
+    "static/media/home2.png": "/Company-Page/static/media/home2.6ff5d1f8c65ca3158862.png",
+    "static/media/network.png": "/Company-Page/static/media/network.71f3198319e97799557f.png",
+    "static/media/instagram-icon.png": "/Company-Page/static/media/instagram-icon.23c638b4faa9c3d577cd.png",
+    "static/media/logo.jpeg": "/Company-Page/static/media/logo.becc824b05a019a1f57b.jpeg",
+    "static/media/whatsapp-icon.png": "/Company-Page/static/media/whatsapp-icon.f41a4e42652547144538.png",
+    "static/media/twitter-icon.png": "/Company-Page/static/media/twitter-icon.f2d3d7e5f8aedd69893a.png",
+    "static/media/snapchat-icon.png": "/Company-Page/static/media/snapchat-icon.a577d4ea0b5da923a36e.png",
+    "static/media/linkedin-icon.png": "/Company-Page/static/media/linkedin-icon.be2a99ff5453b5981173.png",
+    "static/media/facebook-icon.png": "/Company-Page/static/media/facebook-icon.eb205329e3eeb643d450.png",
+    "static/media/wave1.png": "/Company-Page/static/media/wave1.4de881bf35ead0adb3ae.png",
+    "index.html": "/Company-Page/index.html",
+    "main.f4f25465.css.map": "/Company-Page/static/css/main.f4f25465.css.map",
+    "main.2045b9b9.js.map": "/Company-Page/static/js/main.2045b9b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f25465.css",
+    "static/js/main.2045b9b9.js"
+  ]
+}
